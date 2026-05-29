@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>0xmatnoren</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on 0xmatnoren</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello World</title>
+				<link>http://localhost:1313/posts/hello-world/</link>
+				<pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/hello-world/</guid>
+				<description>&lt;h1 id=&#34;hola-mundo&#34;&gt;Hola mundo&lt;/h1&gt;&#xA;&lt;p&gt;Mi blog de fronted y pentesting ya esta online.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

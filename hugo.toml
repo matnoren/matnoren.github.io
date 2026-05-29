@@ -1,4 +1,4 @@
-baseURL = "https://0xmatnoren.github.io/"
+baseURL = "https://matnoren.github.io/"
 languageCode = "es"
 title = "0xmatnoren"
 theme = "hello-friend-ng"
